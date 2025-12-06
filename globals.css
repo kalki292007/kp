@@ -1,0 +1,9 @@
+:root{
+  --green:#16a34a;
+  --blue:#1e3a8a;
+  --muted:#6b7280;
+}
+html,body,#__next{height:100%}
+body{margin:0;background:white;color:#0a2a43;font-family:Inter, Arial, sans-serif}
+h1{margin:0;font-size:1.4rem}
+h2{margin:0 0 8px 0}
